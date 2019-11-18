@@ -1,0 +1,3 @@
+x = input("Sõna:")
+x = x.capitalize()
+print(x)
